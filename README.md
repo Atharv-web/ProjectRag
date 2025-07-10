@@ -119,15 +119,3 @@ The system operates in two main stages:
         ```
     *   The script will prompt you to "Enter your Question:". Type your question and press Enter.
     *   To exit the analyser, type "exit" and press Enter.
-
-## Future Improvements / To-Do
-
-*   **Parameterize File Paths**: Modify scripts to accept file paths via command-line arguments or a configuration file instead of hardcoding them.
-*   **Configuration Management**: Centralize configuration (model names, vector store paths, retriever parameters) perhaps using a YAML file or environment variables more extensively.
-*   **Error Handling**: Implement more robust error handling in scripts (e.g., for file not found, Ollama connection issues).
-*   **Data Preprocessing**: Add options for more advanced data cleaning and preprocessing before embedding.
-*   **Source Data Handling**: Include scripts or instructions for converting the source Excel files (`.xlsx`) to the required CSV format.
-*   **Web Interface**: Develop a simple web interface (e.g., using Flask or Streamlit) for a more user-friendly experience instead of the CLI.
-*   **Batch Processing**: Allow for batch processing of questions from a file.
-*   **Evaluation**: Implement a method to evaluate the quality of the RAG responses.
-*   **Logging**: Add more detailed logging for easier debugging and monitoring.
