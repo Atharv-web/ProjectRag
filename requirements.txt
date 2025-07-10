@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+langchain_community
+langchain-ollama
+langchain-core
+langchain-text-splitters
+faiss-cpu
