@@ -1,4 +1,4 @@
-# Mutual Fund Analysis with RAG
+# Portfolio Analysis with RAG
 
 ## Overview
 
