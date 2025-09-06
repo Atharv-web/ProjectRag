@@ -54,11 +54,6 @@ The system operates in two main stages:
     4.  Prints the generated answer to the console.
 *   **Output**: Answers to user questions, printed to the console.
 
-### `prompts.py`
-
-*   **Purpose**: This file contains example string prompts (`prompt_2`, `prompt3`).
-*   **Details**: These prompts demonstrate different ways to interact with language models, such as requesting structured output (JSON) or maintaining a consistent conversational style. They are not directly used in the main RAG pipeline (`MFAnalyser.py` or `add_data_tovector_db_csv.py`) but can be useful for testing, experimentation, or extending the functionality.
-
 ## Data Files and Directories
 
 *   **`ZN250 - Monthly Portfolio November 2024.xlsx`**
